@@ -1,2 +1,2 @@
 # SpringBoot-Starter
-This project helps as a template for a spring boot project with proper authentication configuration and database connectivity.
+This is a template for a spring boot project with proper authentication configuration and database connectivity.
